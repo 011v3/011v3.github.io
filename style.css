@@ -1,0 +1,39 @@
+body {
+    font-family: 'Lexend Deca', sans-serif;
+
+    display: flex;
+    background-color: #5D576B;
+}
+
+.header {
+    display: flex;
+    padding: 34px;
+    height: 100vh;
+    color: #BED0D3;
+}
+
+ul {
+    list-style: none;
+    font-size: 24px;
+    text-align: center;
+    margin: 34px;
+}
+
+.body {
+    display: flex column;
+    background-color: none;
+}
+
+
+.me {
+    font-size: 345px;
+    text-align: right;
+    max-height: 45px;
+    color: olive;
+}
+
+.content {
+    max-width: 500px;
+    margin-left: 50px;
+    color: #BFACC8;
+}
