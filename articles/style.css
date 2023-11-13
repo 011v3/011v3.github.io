@@ -10,7 +10,7 @@ h1 {
   color:#FFE1EC;
   font-family:verdana;
   text-align:center;
-  font-size:35;
+  font-size:65px;
   border-style: ridge;
   border-width: 10px;
   border-color:#E853A4;
@@ -38,18 +38,22 @@ background-color:#361C4D;
 margin: 10px;
 padding: 10px;
 text-align:center;
+font-size: 15px;
 }
 
 a:link {
   color:#E853A4;
-  background-color:#DAA9E1}
+  background-color:#DAA9E1;
+  font-size: 22px;
+}
 a:hover {
   color:#DAA9E1;
   background-color:#E853A4;
 }
 
 .list {
-  list-style-image: url('https://64.media.tumblr.com/64b6b26756b400ad3e5bcaeead1d081d/tumblr_ppyeqn3jdT1x6mvfxo1_75sq.gifv');
+list-style-image: url(../pics/cat.webp);
+list-style-position: inside;
 border-style: ridge;
 border-width: 15px;
 border-color:#8E57B1;
